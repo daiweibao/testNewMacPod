@@ -23,6 +23,8 @@
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+    
+    //看看会不会冲突
 }
 
 
